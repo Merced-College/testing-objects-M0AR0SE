@@ -76,6 +76,7 @@ public class ObjectTester {
         b3.setColor("Blue");
         System.out.println("After mutation, b3 = " + b3);
         
+        
 
     }
 }

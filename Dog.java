@@ -42,7 +42,7 @@ public class Dog {
     public void setBreed(String breed) { this.breed = breed; 
     }
 
-    @Override
+    @Override 
     public String toString() {
     return "Dog{name='" + name + "', age=" + age + ", breed='" + breed + "'}";
 }
